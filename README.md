@@ -1,1 +1,1 @@
-A modified version of Attiney85's payloads for the USB RubberDucky
+A modified version of Attiney85's Wi-Fi password stealer for the USB RubberDucky
